@@ -1,5 +1,16 @@
 # go1.21
 
+> **⚠️ ARCHIVED: This repository has been retired**
+> 
+> Go 1.21 reached End of Life and is no longer receiving updates.
+> 
+> - **No new builds** will be published
+> - **Existing packages** remain available in the APT repository
+> - **Security updates** are no longer provided
+> - **For current versions**, see: https://github.com/Dockershelf/dockershelf-pipeline
+> 
+> Retired: 2026-07-07
+
 Debian packaging for Go 1.21: compiles the Go toolchain from the official [golang/go](https://github.com/golang/go) source tree into `golang-1.21-go` packages for enterprise `.deb`-only installs.
 
 ## Supported Debian suites
